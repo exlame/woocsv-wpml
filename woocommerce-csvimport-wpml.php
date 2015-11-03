@@ -9,6 +9,7 @@ License: GPLv2 or later
 Author URI: http://allaerd.org
 */
 
+$woocsvWPML = new woocsvWPML();
 class woocsvWPML
 {
 
